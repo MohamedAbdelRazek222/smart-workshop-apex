@@ -4,7 +4,7 @@ An Oracle APEX app for car service workshops. It answers the two questions that 
 
 Built by Abdelrahman Atef on a free Oracle APEX workspace (APEX 26.1, Oracle AI Database 26ai).
 
-Read the story behind it on Medium: [ADD MEDIUM LINK]
+Read the story behind it on Medium:https://medium.com/@mohamedabdelraziek80/is-my-car-ready-building-a-self-learning-workshop-app-with-oracle-apex-0e6ad3d40343?sharedUserId=mohamedabdelraziek80
 
 ![How a complaint becomes a suggestion](images/diagnosis_flow.png)
 
